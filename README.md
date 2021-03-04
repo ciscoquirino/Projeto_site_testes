@@ -1,7 +1,6 @@
 ## Projeto de Site Institucional para Escola Vó Maria Félix
 
-#### Desenvolvido por Grupo 6 [criar nome pro grupo], alunos do primeiro semestre de Análise e Desenvolvimento 
-de sistemas da FATEC São José dos Campos.
+#### Desenvolvido por Grupo 6 [criar nome pro grupo], alunos do primeiro semestre de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos.
 
 Proposta: Criar um site institucional para a ONG "Escola Vó Maria Felix", usando html e css, onde o usuário 
 consiga com facilidade obter informações sobre a escola, fazer cadastro de participantes, de projetos e de voluntários, 
