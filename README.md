@@ -33,4 +33,4 @@ etc...
 
 [Anexar imagens de prévia do layout]
 
-(https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Home.jpg?raw=true)
+![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Home.jpg?raw=true)
