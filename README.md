@@ -34,3 +34,5 @@ etc...
 [Anexar imagens de prévia do layout]
 
 ![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Home.jpg?raw=true)
+
+![Screenshot](Cadastro 1.jpg)
