@@ -35,4 +35,18 @@ etc...
 
 ![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Home.jpg?raw=true)
 
-![Screenshot](Cadastro 1.jpg)
+![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Cadastro%201.jpg?raw=true)
+
+![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Cadastro%203.jpg?raw=true)
+
+![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Cadastro%202.jpg?raw=true)
+
+![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Home.jpg?raw=true)
+
+![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Historia.jpg?raw=true)
+
+![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Projetos.jpg?raw=true)
+
+![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Doação.jpg?raw=true)
+
+![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Contato.jpg?raw=true)
