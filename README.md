@@ -32,3 +32,5 @@ etc...
 05/06 - Abas com mídia e mais informações sobre a ONG e projetos
 
 [Anexar imagens de prévia do layout]
+
+(https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Home.jpg?raw=true)
