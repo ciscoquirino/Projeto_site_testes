@@ -23,10 +23,15 @@ realizar doações e entrar em contato, se necessário.
 etc...
 
 ##### Cronograma:
+
 28/03 - Entrega de homepage com principais informações sobre a ONG e contato
+
 18/04 - Implementação de formulários de cadastros
+
 16/05 - informações para realizar doações e formulário para contato
+
 05/06 - Abas com mídia e mais informações sobre a ONG e projetos
+
 
 ![alt text](https://github.com/ciscoquirino/Projeto_site_testes/blob/master/Home.jpg?raw=true)
 
